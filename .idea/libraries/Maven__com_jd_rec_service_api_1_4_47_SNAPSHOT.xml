@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.rec:service-api:1.4.47-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/rec/service-api/1.4.47-SNAPSHOT/service-api-1.4.47-20180927.095033-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/rec/service-api/1.4.47-SNAPSHOT/service-api-1.4.47-20180927.095033-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/rec/service-api/1.4.47-SNAPSHOT/service-api-1.4.47-20180927.095033-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

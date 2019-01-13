@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>nrt-app</artifactId>
+        <groupId>com.jd.rec</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>nrt-app-origin</artifactId>
+
+    <properties>
+        <!-- protobuf paths -->
+        <protobuf.directory>${project.basedir}/src/main/java</protobuf.directory>
+        <protobuf.version>3.3.0</protobuf.version>
+        <!-- library versions -->
+        <maven-antrun-plugin.version>1.8</maven-antrun-plugin.version>
+        <maven-dependency-plugin.version>2.10</maven-dependency-plugin.version>
+        <os-maven-plugin.version>1.4.1.Final</os-maven-plugin.version>
+    </properties>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.jd.rec</groupId>
+            <artifactId>nrt-test-support</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <!--<extensions>-->
+        <!--&lt;!&ndash; provides os.detected.classifier (i.e. linux-x86_64, osx-x86_64) property &ndash;&gt;-->
+        <!--<extension>-->
+        <!--<groupId>kr.motd.maven</groupId>-->
+        <!--<artifactId>os-maven-plugin</artifactId>-->
+        <!--<version>${os-maven-plugin.version}</version>-->
+        <!--</extension>-->
+        <!--</extensions>-->
+        <!--<plugins>-->
+        <!--&lt;!&ndash;生成proto文件使用 测试使用，正常由uds提供&ndash;&gt;-->
+        <!--<plugin>-->
+        <!--<groupId>org.apache.maven.plugins</groupId>-->
+        <!--<artifactId>maven-dependency-plugin</artifactId>-->
+        <!--<version>${maven-dependency-plugin.version}</version>-->
+        <!--<executions>-->
+        <!--<execution>-->
+        <!--<id>copy-protoc</id>-->
+        <!--<phase>generate-sources</phase>-->
+        <!--<goals>-->
+        <!--<goal>copy</goal>-->
+        <!--</goals>-->
+        <!--<configuration>-->
+        <!--<artifactItems>-->
+        <!--<artifactItem>-->
+        <!--<groupId>com.google.protobuf</groupId>-->
+        <!--<artifactId>protoc</artifactId>-->
+        <!--<version>${protobuf.version}</version>-->
+        <!--<classifier>${os.detected.classifier}</classifier>-->
+        <!--<type>exe</type>-->
+        <!--<overWrite>true</overWrite>-->
+        <!--<outputDirectory>${project.build.directory}</outputDirectory>-->
+        <!--</artifactItem>-->
+        <!--</artifactItems>-->
+        <!--</configuration>-->
+        <!--</execution>-->
+        <!--</executions>-->
+        <!--</plugin>-->
+        <!--<plugin>-->
+        <!--<groupId>org.apache.maven.plugins</groupId>-->
+        <!--<artifactId>maven-antrun-plugin</artifactId>-->
+        <!--<version>${maven-antrun-plugin.version}</version>-->
+        <!--<executions>-->
+        <!--<execution>-->
+        <!--<id>exec-protoc</id>-->
+        <!--<phase>generate-sources</phase>-->
+        <!--<configuration>-->
+        <!--<target>-->
+        <!--<property name="protoc.filename"-->
+        <!--value="protoc-${protobuf.version}-${os.detected.classifier}.exe"/>-->
+        <!--<property name="protoc.filepath" value="${project.build.directory}/${protoc.filename}"/>-->
+        <!--<chmod file="${protoc.filepath}" perm="ugo+rx"/>-->
+        <!--<mkdir dir="${protobuf.directory}"/>-->
+        <!--<path id="protobuf.input.filepaths.path">-->
+        <!--<fileset dir="${protobuf.directory}">-->
+        <!--<include name="**/*.proto"/>-->
+        <!--</fileset>-->
+        <!--</path>-->
+        <!--<pathconvert pathsep=" " property="protobuf.input.filepaths"-->
+        <!--refid="protobuf.input.filepaths.path"/>-->
+        <!--<exec executable="${protoc.filepath}" failonerror="true">-->
+        <!--<arg value="-I"/>-->
+        <!--<arg value="${protobuf.directory}"/>-->
+        <!--<arg value="&#45;&#45;java_out"/>-->
+        <!--<arg value="${protobuf.directory}"/>-->
+        <!--<arg line="${protobuf.input.filepaths}"/>-->
+        <!--</exec>-->
+        <!--</target>-->
+        <!--</configuration>-->
+        <!--<goals>-->
+        <!--<goal>run</goal>-->
+        <!--</goals>-->
+        <!--</execution>-->
+        <!--</executions>-->
+        <!--</plugin>-->
+        <!--</plugins>-->
+        <plugins>
+            <plugin>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.19</version>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.junit.platform</groupId>
+                        <artifactId>junit-platform-surefire-provider</artifactId>
+                        <version>1.0.0-M2</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+        </plugins>
+    </build>
+</project>

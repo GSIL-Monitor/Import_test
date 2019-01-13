@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.bdp.jdq:jdwdata:1.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jdq/jdwdata/1.0.2-SNAPSHOT/jdwdata-1.0.2-20180116.020852-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jdq/jdwdata/1.0.2-SNAPSHOT/jdwdata-1.0.2-20180116.020852-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jdq/jdwdata/1.0.2-SNAPSHOT/jdwdata-1.0.2-20180116.020852-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

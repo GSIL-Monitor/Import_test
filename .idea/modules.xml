@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nrt-app/nrt-app.iml" filepath="$PROJECT_DIR$/nrt-app/nrt-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-app/nrt-app-origin/nrt-app-origin.iml" filepath="$PROJECT_DIR$/nrt-app/nrt-app-origin/nrt-app-origin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-app/nrt-app-toolkit/nrt-app-toolkit.iml" filepath="$PROJECT_DIR$/nrt-app/nrt-app-toolkit/nrt-app-toolkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-connector/nrt-connector.iml" filepath="$PROJECT_DIR$/nrt-connector/nrt-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-connector/nrt-connector-standalone/nrt-connector-standalone.iml" filepath="$PROJECT_DIR$/nrt-connector/nrt-connector-standalone/nrt-connector-standalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-connector/nrt-connector-storm/nrt-connector-storm.iml" filepath="$PROJECT_DIR$/nrt-connector/nrt-connector-storm/nrt-connector-storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-core/nrt-core.iml" filepath="$PROJECT_DIR$/nrt-core/nrt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-runtime-app/nrt-origin-standalone/nrt-origin-standalone.iml" filepath="$PROJECT_DIR$/nrt-runtime-app/nrt-origin-standalone/nrt-origin-standalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-runtime-app/nrt-origin-storm/nrt-origin-storm.iml" filepath="$PROJECT_DIR$/nrt-runtime-app/nrt-origin-storm/nrt-origin-storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-platform.iml" filepath="$PROJECT_DIR$/nrt-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-runtime-app/nrt-runtime-app.iml" filepath="$PROJECT_DIR$/nrt-runtime-app/nrt-runtime-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-service/nrt-service.iml" filepath="$PROJECT_DIR$/nrt-service/nrt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nrt-test-support/nrt-test-support.iml" filepath="$PROJECT_DIR$/nrt-test-support/nrt-test-support.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+com\jd\rec\nl\connector\standalone\input\MultiSourceConfig.class
+com\jd\rec\nl\connector\standalone\diff\JimdbSaveInterceptor.class
+com\jd\rec\nl\connector\standalone\input\MockContent.class
+com\jd\rec\nl\connector\standalone\input\MockSource.class
+com\jd\rec\nl\connector\standalone\trace\MethodLogInterceptor.class
+com\jd\rec\nl\connector\standalone\config\DebugConfiguration.class
+com\jd\rec\nl\connector\standalone\StandaloneRuntime.class
+com\jd\rec\nl\connector\standalone\diff\JimdbQueryInterceptor.class
+com\jd\rec\nl\connector\standalone\input\OnlineSource.class
+com\jd\rec\nl\connector\standalone\util\ThreadPoolRunner.class
+com\jd\rec\nl\connector\standalone\input\builder\StandaloneSourceBuilder.class
+com\jd\rec\nl\connector\standalone\input\Source.class
+com\jd\rec\nl\connector\standalone\input\JdqConsumerSource.class
+com\jd\rec\nl\connector\standalone\input\KafkaConsumer2Queue.class

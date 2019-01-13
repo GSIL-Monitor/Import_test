@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>nrt-platform</artifactId>
+        <groupId>com.jd.rec</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>nrt-runtime-app</artifactId>
+    <packaging>pom</packaging>
+    <description>能够在不同运行平台运行的app,命名规范为nrt-app名-connector类型</description>
+    <modules>
+        <module>nrt-origin-standalone</module>
+        <module>nrt-origin-storm</module>
+    </modules>
+
+
+</project>

@@ -1,0 +1,13 @@
+com\jd\rec\nl\test\mock\infrastructure\MockDBProxyStandalone.class
+com\jd\rec\nl\test\mock\infrastructure\MockILogKafka.class
+com\jd\rec\nl\test\mock\infrastructure\MockZeus.class
+com\jd\rec\nl\test\mock\infrastructure\MockUnifiedOutput.class
+com\jd\rec\nl\test\junit5\callback\callback\InfrastructureJUnitMock.class
+com\jd\rec\nl\test\mock\infrastructure\MockUserModel.class
+com\jd\rec\nl\test\mock\infrastructure\MockBehavior.class
+com\jd\rec\nl\test\mock\infrastructure\MockJimdb.class
+com\jd\rec\nl\test\junit5\callback\annontation\MockInfrastructure.class
+com\jd\rec\nl\test\mock\infrastructure\MockDBProxy.class
+com\jd\rec\nl\test\mock\infrastructure\MockClerk.class
+com\jd\rec\nl\test\mock\infrastructure\MockDBProxyStandalone$Content.class
+com\jd\rec\nl\test\mock\infrastructure\MockPredictor.class

@@ -1,0 +1,13 @@
+com\jd\rec\nl\origin\standalone\mock\MockUserModel.class
+com\jd\rec\nl\origin\standalone\mock\MockDBProxy.class
+com\jd\rec\nl\origin\standalone\mock\MockJimdb.class
+com\jd\rec\nl\origin\standalone\mock\MockILogKafka.class
+com\jd\rec\nl\origin\standalone\mock\MockDBProxyStandalone.class
+com\jd\rec\nl\origin\standalone\mock\MockClerk.class
+com\jd\rec\nl\origin\standalone\mock\MockDBProxyStandalone$Content.class
+com\jd\rec\nl\origin\standalone\mock\MockPredictor.class
+com\jd\rec\nl\origin\standalone\mock\MockUnifiedOutput.class
+com\jd\rec\nl\origin\standalone\mock\MockZeus.class
+com\jd\rec\nl\origin\standalone\mock\MockSelector.class
+com\jd\rec\nl\origin\standalone\mock\MockConfigWatcher.class
+com\jd\rec\nl\origin\standalone\mock\MockBehavior.class

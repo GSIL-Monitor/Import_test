@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.zeus:zeus-lib:2.2.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/zeus/zeus-lib/2.2.8-SNAPSHOT/zeus-lib-2.2.8-20180313.035550-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/zeus/zeus-lib/2.2.8-SNAPSHOT/zeus-lib-2.2.8-20180313.035550-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/zeus/zeus-lib/2.2.8-SNAPSHOT/zeus-lib-2.2.8-20180313.035550-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

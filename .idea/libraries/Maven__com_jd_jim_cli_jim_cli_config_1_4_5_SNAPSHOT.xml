@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.jim.cli:jim-cli-config:1.4.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jim/cli/jim-cli-config/1.4.5-SNAPSHOT/jim-cli-config-1.4.5-20190104.084315-38.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jim/cli/jim-cli-config/1.4.5-SNAPSHOT/jim-cli-config-1.4.5-20190104.084315-38-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jim/cli/jim-cli-config/1.4.5-SNAPSHOT/jim-cli-config-1.4.5-20190104.084315-38-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

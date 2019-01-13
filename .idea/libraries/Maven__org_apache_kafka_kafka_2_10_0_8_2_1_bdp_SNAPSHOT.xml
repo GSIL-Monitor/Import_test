@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.kafka:kafka_2.10:0.8.2.1-bdp-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.1-bdp-SNAPSHOT/kafka_2.10-0.8.2.1-bdp-20150821.054834-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.1-bdp-SNAPSHOT/kafka_2.10-0.8.2.1-bdp-20150821.054834-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.10/0.8.2.1-bdp-SNAPSHOT/kafka_2.10-0.8.2.1-bdp-20150821.054834-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

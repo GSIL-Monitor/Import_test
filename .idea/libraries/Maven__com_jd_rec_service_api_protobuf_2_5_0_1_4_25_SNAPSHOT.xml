@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.rec:service-api-protobuf-2.5.0:1.4.25-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/rec/service-api-protobuf-2.5.0/1.4.25-SNAPSHOT/service-api-protobuf-2.5.0-1.4.25-20180906.081044-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/rec/service-api-protobuf-2.5.0/1.4.25-SNAPSHOT/service-api-protobuf-2.5.0-1.4.25-20180906.081044-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/rec/service-api-protobuf-2.5.0/1.4.25-SNAPSHOT/service-api-protobuf-2.5.0-1.4.25-20180906.081044-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

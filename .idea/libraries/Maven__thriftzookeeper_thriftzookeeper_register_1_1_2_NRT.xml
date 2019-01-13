@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: thriftzookeeper:thriftzookeeper-register:1.1.2-NRT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/thriftzookeeper/thriftzookeeper-register/1.1.2-NRT/thriftzookeeper-register-1.1.2-NRT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/thriftzookeeper/thriftzookeeper-register/1.1.2-NRT/thriftzookeeper-register-1.1.2-NRT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/thriftzookeeper/thriftzookeeper-register/1.1.2-NRT/thriftzookeeper-register-1.1.2-NRT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

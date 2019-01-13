@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd:jst-jvm-enhance:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jst-jvm-enhance/1.0.0-SNAPSHOT/jst-jvm-enhance-1.0.0-20180123.113918-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jst-jvm-enhance/1.0.0-SNAPSHOT/jst-jvm-enhance-1.0.0-20180123.113918-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jst-jvm-enhance/1.0.0-SNAPSHOT/jst-jvm-enhance-1.0.0-20180123.113918-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

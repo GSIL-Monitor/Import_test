@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.zeus:zeus-data-convert:1.4.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/zeus/zeus-data-convert/1.4.6-SNAPSHOT/zeus-data-convert-1.4.6-20180821.093636-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/zeus/zeus-data-convert/1.4.6-SNAPSHOT/zeus-data-convert-1.4.6-20180821.093636-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/zeus/zeus-data-convert/1.4.6-SNAPSHOT/zeus-data-convert-1.4.6-20180821.093636-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

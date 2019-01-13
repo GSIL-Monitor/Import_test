@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.bdp:jdq:3.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jdq/3.2-SNAPSHOT/jdq-3.2-20171207.033728-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jdq/3.2-SNAPSHOT/jdq-3.2-20171207.033728-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jdq/3.2-SNAPSHOT/jdq-3.2-20171207.033728-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

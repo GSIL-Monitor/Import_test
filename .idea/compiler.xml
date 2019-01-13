@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nrt-app-origin" />
+        <module name="nrt-app-toolkit" />
+        <module name="nrt-connector-standalone" />
+        <module name="nrt-connector-storm" />
+        <module name="nrt-core" />
+        <module name="nrt-origin-standalone" />
+        <module name="nrt-origin-storm" />
+        <module name="nrt-service" />
+        <module name="nrt-test-support" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nrt-app" target="1.8" />
+      <module name="nrt-app-origin" target="1.8" />
+      <module name="nrt-app-toolkit" target="1.8" />
+      <module name="nrt-connector" target="1.8" />
+      <module name="nrt-connector-standalone" target="1.8" />
+      <module name="nrt-connector-storm" target="1.8" />
+      <module name="nrt-core" target="1.8" />
+      <module name="nrt-origin-standalone" target="1.8" />
+      <module name="nrt-origin-storm" target="1.8" />
+      <module name="nrt-platform" target="1.8" />
+      <module name="nrt-runtime-app" target="1.8" />
+      <module name="nrt-service" target="1.8" />
+      <module name="nrt-test-support" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

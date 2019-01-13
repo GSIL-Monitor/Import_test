@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.bdp:jrcsdk-jdq3:5.0.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jrcsdk-jdq3/5.0.8-SNAPSHOT/jrcsdk-jdq3-5.0.8-20181218.094328-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jrcsdk-jdq3/5.0.8-SNAPSHOT/jrcsdk-jdq3-5.0.8-20181218.094328-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/bdp/jrcsdk-jdq3/5.0.8-SNAPSHOT/jrcsdk-jdq3-5.0.8-20181218.094328-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
